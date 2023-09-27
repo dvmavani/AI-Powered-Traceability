@@ -7,7 +7,7 @@ can plot a diagram or respond as text.
 
 
 ## Installation
-### Install Required Python Packages 
+### Install Python Packages 
 ```
 $ pip install PandasAI
 $ pip install pandas
