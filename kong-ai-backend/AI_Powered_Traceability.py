@@ -7,8 +7,8 @@ from flask_cors import CORS
 
 app = Flask(__name__)
 CORS(app)
-
-OpenApi_Key = "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"
+# Add the OpenAI Key here
+OpenApi_Key = "OPEN_AI_KEY"
 llm = OpenAI(api_token=OpenApi_Key)
 pandas_ai = PandasAI(llm, conversational=True, save_charts=True, enable_cache=True)
 
