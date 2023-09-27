@@ -29,13 +29,13 @@ $ Open the html file in the browser
 - Also in the Broswer it has option to add the question .
 - Once the queries and file submitted to the python API , It analyses and responds like a human based on the queries.
 
-## How it works
+## Future Scope
 - It can be integrated with Kong Manager UI.
 
 
 ## UI Screenshot
+<img width="956" alt="Traceability" src="https://github.com/dvmavani/AI-Powered-Traceability/assets/60134179/112313b6-f3a5-4bbc-a60b-b28381c2f419">
 
-https://user-images.githubusercontent.com/33321420/192088364-01f76e24-c025-4139-b816-42e7d608873e.mp4
 
 ## Contributors
 Design & Developed By : Satyajit.Sial@VERIFONE.com ,preman1@verifone.com, dhavalm1@verifone.com
